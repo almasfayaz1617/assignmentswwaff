@@ -1,0 +1,389 @@
+.a{
+    background-color: rgba(0, 0, 255, 0.671);
+    padding: 15px;
+    margin: 0px;
+}
+
+.a1{
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+@media only screen and (max-width:6000px){
+    .a1{
+        height: 10px;
+        width: 10px;
+        margin-left: 5px;
+        margin-right: 10px;
+    }
+}
+.a2{
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+@media only screen and (max-width:6000px){
+.a2{
+        height: 10px;
+        width: 10px;
+        margin-left: 5px;
+        margin-right: 10px;
+    }
+
+.a3{
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+@media only screen and (max-width:6000px){
+    .a3{
+        height: 10px;
+        width: 10px;
+        margin-left: 5px;
+        margin-right: 10px;
+    }
+.a4{
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+@media only screen and (max-width:6000px){
+    .a4{
+        height: 10px;
+        width: 10px;
+        margin-left: 5px;
+        margin-right: 10px;
+    }
+.a5{
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+@media only screen and (max-width:6000px){
+    .a5{
+        height: 10px;
+        width: 10px;
+        margin-left: 5px;
+        margin-right: 10px;
+    }
+p{
+    color: white;
+    text-align: center;
+    font-style: normal;
+    display: inline-block;
+    margin-left: 70px;
+}
+button{
+    background-color: white;
+    color: rgba(0, 0, 0, 0.616);
+    margin-left: 10px;
+}
+.lii{
+    background-color: snow;
+    text-align: center;
+    
+}
+.b ul{
+     display: inline-flex;
+     list-style: none;
+     
+ }   
+
+ .b ul li{
+    width: 120px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 2px;
+    font-size: 1em;
+    margin-right: 10px;
+
+}
+.b ul li:hover{
+    background-color: rgba(0, 0, 255, 0.637);
+    border-radius:30px;
+    height: 20px;
+    cursor: pointer;
+}
+.c{
+    padding: 5px;
+    margin: 10px;
+    background-color: snow;
+    margin-top: 70px;
+    text-align:center;
+    font-size: 16px;
+    font-style: initial;
+    color:rgba(128, 128, 128, 0.979);
+}
+.d{
+    background-color: snow;
+    text-align:center;
+    color:blue;
+    font-size:40px;
+}
+
+span{
+    color:rgba(96, 146, 22, 0.925);
+}
+.e{
+    text-align: center;
+}
+.seven{
+    background-color: blue;
+    margin: 2px;
+    padding: 2px;
+}
+.seven ol{
+    display: inline-flex;
+     list-style: none;
+}
+.seven ol li{
+    color: white;
+    width: 250px;
+    margin: px;
+    padding: 5px;
+    border-radius: 2px;
+    font-size: 50px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    
+}
+.lol{
+    display: inline-flex;
+    list-style: none;
+}
+.lol li{
+    color: white;
+    width: 250px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 2px;
+    font-size: 20px; 
+    margin-top: 2px;
+    
+}
+.g{
+    background-color:white;
+    color: blue;
+    font-size: 10pxpx;
+    width: 350px;
+    height: 100px;
+   margin-left: 20px;
+   margin-top: 2px;
+   display: inline-block;
+    
+    
+}
+.h{
+    background-color:white;
+    color: blue;
+    font-size: 10pxpx;
+    width: 350px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 2px;
+
+    
+}
+.i{
+    background-color:white;
+    color: blue;
+    font-size: 10pxpx;
+    width: 350px;
+    height: 100px;
+    display:inline-block ;
+    margin-left: 20px;
+    
+}
+.j{
+    background-color:white;
+    text-align:center;
+    color: blue;
+    font-size: 10pxpx;
+    width: 350px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 20px;
+    
+}
+.k{
+    background-color:white;
+    text-align: center;
+    color: blue;
+    font-size: 10pxpx;
+    width: 350px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 20px;
+    
+}
+.l{
+    background-color:white;
+    text-align: center;
+    color: blue;
+    font-size: 10pxpx;
+    width: 350px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 20px;
+}
+.m{
+    color:blue;
+    margin-left: 80px;
+
+}
+.n{
+    background-color:rgba(220, 220, 220, 0.349);
+    color: blue;
+    font-size: 10pxpx;
+    width: 350px;
+    height: 70px;
+   margin-left: 70px;
+   margin-bottom: 20px;
+display: inline-block;
+    
+}
+.o{
+    background-color:rgba(220, 220, 220, 0.349);
+    color: blue;
+    font-size: 10pxpx;
+    width: 350px;
+    height: 70px;
+    display: inline-block;
+    margin-left: 20px;
+}
+.p{
+    background-color:rgba(220, 220, 220, 0.349);
+    color: blue;
+    font-size: 10pxpx;
+    width: 350px;
+    height: 70px;
+    display:inline-block;
+    margin-right: 2px;
+    margin-left: 70px;
+    margin-top: 2px;
+
+}
+.q{
+    background-color:rgba(220, 220, 220, 0.349);
+    color: blue;
+    font-size: 10pxpx;
+    width: 350px;
+    height: 70px;
+    margin-right: 20px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 2px;
+}
+.t{
+    display: inline-block;
+}
+.u{
+    display: inline-block;
+
+}
+.v{
+    display: inline-block;
+}
+.w{
+    display: inline-block;
+}
+.bb{
+    word-spacing: 50px;
+}
+.x{
+    display: inline-block;
+}
+.z{
+display: inline-block;
+margin-left: 20px;
+margin-top: 2px;
+margin-right: 50px;
+margin-bottom: 50px;
+}
+.y{
+    color: blue;
+margin-right: 100px;
+}
+.hh{
+    color:gainsboro;
+    background-color: black;
+}
+.qq{
+    text-align:center;
+    padding: 5px;
+
+}
+
+.b ul li:hover vv{
+    display: block;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.b ul li:hover ww li{
+    display: block;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.hhh{
+    background-color:blue;
+    padding-top: 5px;
+}
+.gg{
+    color: chartreuse;
+}
+.ii{
+    color: white;
+}
+.jj{
+    color: blue;
+}
+.ccc{
+    color: chartreuse;
+}
+.f{
+    padding-top: 10px;
+}
+.ddd{
+    color:rgba(0, 128, 0, 0.514);
+    border: 10px green;
+}
+.hh{
+    background-color:black;
+    padding-bottom: 2px;
+}
+.fff{
+    color: rgba(0, 0, 255, 0.849);
+    display: inline-block;
+}
+
+.ppp{
+    color: gray;
+    font-size: 10px;
+
+}
+.qqq{
+color: white;
+display: inline-block;
+margin-left: 500px;
+}
+.rrr{
+    margin-left: 100px;
+color: white;
+display: inline-block;
+margin-top: 10px;
+}
+.sss{
+    color:rgba(0, 128, 0, 0.637);
+}
+.dddd{
+    background-color: blue;
+    padding-bottom: 2px;
+}
